@@ -13,4 +13,4 @@ This tool will help the consultant migrate launch property.
 3.  Logs will be made available in logs directory.
 
 ##  Developer
-  1.  Prateek Kejriwal
+  1.  Mahesh Vangala
